@@ -1,7 +1,7 @@
 variable bucket {
     type  = string
-    description
-    default ""
+    description = "bucket name"
+    default = ""
 }
 
 variable versioning {

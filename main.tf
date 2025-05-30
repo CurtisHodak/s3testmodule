@@ -1,9 +1,9 @@
 resource "aws_s3_bucket" "This" {
-    bucket = var.bucket
+  bucket = var.bucket
 
-    versioning {
-        enabled = var.versioning
-    }
+  versioning {
+    enabled = var.versioning
+  }
 
-    tags = var.tags
+  tags = var.tags
 }

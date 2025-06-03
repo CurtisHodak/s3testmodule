@@ -14,7 +14,7 @@ variable "tags" {
   type        = map(any)
   description = "Just tags to add"
   default = {
-    moduleCreated = "doit"
+    moduleCreated = "again"
     testdeploy = "again"
   }
 }

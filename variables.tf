@@ -15,5 +15,6 @@ variable "tags" {
   description = "Just tags to add"
   default = {
     moduleCreated = "yeah"
+    testdeploy = "yes"
   }
 }

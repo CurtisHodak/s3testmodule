@@ -1,10 +1,10 @@
 version: 1
 
-module_version: 0.3.4
+module_version: 0.3.5
 
 tests:
   - name: Test the module with 1.5.1
     terraform_version: 1.5.1
   - name: validate-symlink
     project_root: SymlinkTest
-    terraform_version: 1.9.0
+    terraform_version: 1.5.1

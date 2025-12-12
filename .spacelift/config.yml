@@ -1,8 +1,4 @@
 version: 1
 
-module_version: 1.0.2
-
-tests:
-  - name: Test the module with 1.5.1
-    terraform_version: 1.5.1
+module_version: 1.0.3
 

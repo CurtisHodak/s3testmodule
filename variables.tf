@@ -12,7 +12,7 @@ variable "versioning" {
 
 variable "tags" {
   type        = map(any)
-  description = "Just tags to add"
+  description = "Just tags to add1"
   default = {
     moduleCreated = "stacktime"
     testdeploy = "again"

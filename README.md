@@ -1,1 +1,1 @@
-[cat](cat.jpg)
+![cat](cat.jpg)
